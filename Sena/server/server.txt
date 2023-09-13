@@ -1,0 +1,26 @@
+HPUSF
+root
+
+base
+
+
+
+
+
+
+
+
+!!!!!Atencion !!!!!
+
+No Eliminar este archivo ya que Contiene la Configuracion del Servidor en el Sigiente  orden:
+
+☼ Ip del Servidor
+☼ Usuario
+☼ Contraseña
+☼ Base de Datos
+
+
+
+
+
+►►►►►►►►►►►►►►►►►►►►►►►►►►►     Marcos Toribio    ◄◄◄◄◄◄◄◄◄◄◄◄◄◄◄◄◄◄◄◄◄◄◄◄◄
